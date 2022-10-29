@@ -1,5 +1,5 @@
 # Daily Journal
-A basic webapp where one can post stuff
+A web application where user can write a daily journal or Blog
 ## Tech used
 * Node js
 * Express
